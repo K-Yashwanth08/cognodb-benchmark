@@ -1,0 +1,5 @@
+Benchmark Type,Total Runs,Successful Runs,Failed Runs,Success Rate (%),Failure Rate (%),Minimum Latency (ms),Maximum Latency (ms),P50 Latency (ms),P95 Latency (ms)
+Point Lookup,10,10,0,100.0,0.0,259.063,303.112,271.312,293.54
+1-Hop,10,10,0,100.0,0.0,264.528,294.667,276.706,294.147
+2-Hop,10,10,0,100.0,0.0,270.146,401.384,282.582,376.923
+3-Hop,10,9,1,90.0,10.0,288.872,4879.124,838.811,4251.35
