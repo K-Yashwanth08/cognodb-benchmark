@@ -153,7 +153,9 @@
     Latency: 4,879.124 ms
 
 10. Benchmark Graphs
+
     P50 Latency
+    https://github.com/K-Yashwanth08/cognodb-benchmark/blob/main/p50_latency.png?raw=true
     
     P95 Latency
     
@@ -161,7 +163,7 @@
     
     Success vs Failure
 
-11. Key Findings
+12. Key Findings
 
     The benchmark produced the following observations:
     
@@ -173,7 +175,7 @@
     The 3-Hop benchmark achieved a 90% success rate, with one query failing due to a database connection issue.
     The results indicate that graph traversal depth and graph expansion size have a significant impact on query performance.
 
-12. Generated Benchmark Files
+13. Generated Benchmark Files
 
     The benchmark generates the following files:
     
