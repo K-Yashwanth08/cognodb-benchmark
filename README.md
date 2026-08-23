@@ -161,10 +161,10 @@
     <img width="819" height="479" alt="Image" src="https://github.com/user-attachments/assets/39f90c6f-9a58-4e0f-a6c2-11a4f413d343" />
     
     Latency by Run
-    <img width="830" height="487" alt="Image" src="https://github.com/user-attachments/assets/36f5b050-0c5c-46cb-84b3-80b1d4bcd439" />
+    <img width="814" height="467" alt="Image" src="https://github.com/user-attachments/assets/aa631228-e2e6-4b32-861f-c85b7dc85584" />
     
     Success vs Failure
-
+    <img width="830" height="487" alt="Image" src="https://github.com/user-attachments/assets/36f5b050-0c5c-46cb-84b3-80b1d4bcd439" />
 12. Key Findings
 
     The benchmark produced the following observations:
