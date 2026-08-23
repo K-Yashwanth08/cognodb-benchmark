@@ -94,6 +94,8 @@
 
 5. Benchmark Results
 
+    <img width="596" height="100" alt="Image" src="https://github.com/user-attachments/assets/6665e07d-7b44-4182-9cfe-0782c69e326f" />
+
 
 6. Point Lookup Results
 
@@ -165,7 +167,7 @@
     
     Success vs Failure
     <img width="830" height="487" alt="Image" src="https://github.com/user-attachments/assets/36f5b050-0c5c-46cb-84b3-80b1d4bcd439" />
-12. Key Findings
+11. Key Findings
 
     The benchmark produced the following observations:
     
@@ -177,7 +179,7 @@
     The 3-Hop benchmark achieved a 90% success rate, with one query failing due to a database connection issue.
     The results indicate that graph traversal depth and graph expansion size have a significant impact on query performance.
 
-13. Generated Benchmark Files
+12. Generated Benchmark Files
 
     The benchmark generates the following files:
     
@@ -205,7 +207,7 @@
     P50 Latency
     P95 Latency
 
-3. How to Run
+13. How to Run
     Clone the Repository
         git clone https://github.com/K-Yashwanth08/cognodb-benchmark.git
     Navigate to the Project Directory
