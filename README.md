@@ -155,7 +155,6 @@
 10. Benchmark Graphs
 
     P50 Latency
-    https://github.com/K-Yashwanth08/cognodb-benchmark/blob/main/p50_latency.png?raw=true
     
     P95 Latency
     
